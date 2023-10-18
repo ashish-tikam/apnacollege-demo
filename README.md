@@ -1,2 +1,4 @@
 # apnacollege-demo
-My first private repo
+My first private Repository.
+
+Author: Ashish Tikam
